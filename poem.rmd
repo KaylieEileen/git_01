@@ -16,7 +16,15 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
+<<<<<<< HEAD
 
+=======
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;   
+>>>>>>> verse1
 
 
 ## Second Verse
@@ -28,6 +36,7 @@ you, if you change any of this the git program will notice it and compromise you
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
 
+<<<<<<< HEAD
 In woven tapestry of time and space,  
 Our souls entwined, in this mortal race.   
 Two hearts, two minds, in passion's embrace,  
@@ -49,3 +58,5 @@ For love, the eternal, has the power,
 To transcend all, in its sacred bower.  
 
 
+=======
+>>>>>>> verse1
