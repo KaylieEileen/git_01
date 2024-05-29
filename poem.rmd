@@ -16,15 +16,6 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-A BOAT beneath a sunny sky,  
-Lingering onward dreamily  
-In an evening of July --  
-Children three that nestle near,  
-Eager eye and willing ear,  
-Pleased a simple tale to hear --  
-Long has paled that sunny sky:  
-Echoes fade and memories die:  
-Autumn frosts have slain July.  
 
 
 
@@ -36,3 +27,25 @@ Autumn frosts have slain July.
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
+In woven tapestry of time and space,  
+Our souls entwined, in this mortal race.   
+Two hearts, two minds, in passion's embrace,  
+Bound by fate, in love's relentless chase.  
+  
+Yet shadows linger, and darkness falls,  
+As whispers haunt these hallowed halls.  
+In every joy, a sorrow calls,  
+A dance of life within death's thralls.  
+  
+For who can defy the hands of fate,  
+Or challenge the decree of heaven's gate?  
+In life's tempest, we navigate,  
+Seeking solace, before it's too late.  
+  
+So let us seize this fleeting hour,  
+Embrace the flame, defy the dour.  
+For love, the eternal, has the power,  
+To transcend all, in its sacred bower.  
+
+
