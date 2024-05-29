@@ -16,16 +16,11 @@ you, if you change any of this the git program will notice it and compromise you
 ## First Verse 
 <!--Put the first five lines of a poem by Lewis Carrol in this section!-->
 
-A BOAT beneath a sunny sky,  
-Lingering onward dreamily  
-In an evening of July --  
-Children three that nestle near,  
-Eager eye and willing ear,  
-Pleased a simple tale to hear --  
-Long has paled that sunny sky:  
-Echoes fade and memories die:  
-Autumn frosts have slain July.  
-
+Two roads diverged in a yellow wood,  
+And sorry I could not travel both  
+And be one traveler, long I stood  
+And looked down one as far as I could  
+To where it bent in the undergrowth;  
 
 
 ## Second Verse
@@ -36,3 +31,4 @@ Autumn frosts have slain July.
 
 ## Last Verse
 <!--Put a short poem you created using chatGPT of 20 to 30 lines,here!-->
+
